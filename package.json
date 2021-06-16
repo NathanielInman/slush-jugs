@@ -50,7 +50,7 @@
     "gulp-rename": "^2.0.0",
     "gulp-template": "^5.0.0",
     "iniparser": "^1.0.5",
-    "inquirer": "^7.3.3"
+    "inquirer": "^8.1.1"
   },
   "bugs": {
     "url": "https://github.com/NathanielInman/jugs/issues"
